@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,2bt0.com
 DOMAIN-SUFFIX,cwxu.edu.cn
+DOMAIN-SUFFIX,spikeding.love
 
 #本地域名ip
 DOMAIN-SUFFIX,local,DIRECT
