@@ -1,5 +1,0 @@
-#这部分走代理
-
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,yinfans.me
-DOMAIN-SUFFIX,z-lib.gs
